@@ -21,7 +21,6 @@ public class CDPlayTest {
 	@Test
 	public  void ccc(){
 		assertNotNull(cd);
-		System.out.println(cd);
 		cd.play();
 		System.out.println(cd.getClass().getName());
 		System.out.println("test git add and pull ");
