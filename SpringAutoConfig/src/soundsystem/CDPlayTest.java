@@ -23,7 +23,7 @@ public class CDPlayTest {
 		assertNotNull(cd);
 		cd.play();
 		System.out.println(cd.getClass().getName());
-		System.out.println("test git add and pull ");
+		System.out.println("2222  test git cccc and pull ddddddd ");
 	}	
 	
 }
