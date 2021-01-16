@@ -24,6 +24,7 @@ public class CDPlayTest {
 		System.out.println(cd);
 		cd.play();
 		System.out.println(cd.getClass().getName());
+		System.out.println("test git add and pull ");
 	}	
 	
 }
